@@ -90,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Vinayakmk17/Leetcode/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Vinayakmk17/Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Vinayakmk17/Leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
