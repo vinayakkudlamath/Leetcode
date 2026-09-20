@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Vinayakmk17/Leetcode/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/Vinayakmk17/Leetcode/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
@@ -117,8 +118,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Vinayakmk17/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vinayakmk17/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Vinayakmk17/Leetcode/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Vinayakmk17/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Vinayakmk17/Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
